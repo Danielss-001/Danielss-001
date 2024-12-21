@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Daniel! 👋🤗
 
-<!--
-**Danielss-001/Danielss-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Here's a bit more about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I love working on game development and software engineering projects.
+- 🌱 Currently learning advanced software arquitecture and game engines.
+- 💬 Ask me about C++, Python, and game development (including art😉). 
+- 📫 How to reach me: [dnielss001@gmail.com](mailto:dnielss001@gmail.com)
+- ⚡ Fun fact: I enjoy playing chess and solving puzzles in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- **Languages**: Python, C++
+- **APIs and Frameworks**: OpenGL, SFML
+- **Tools and Platforms**: Git, GitHub, Blender, Photoshop
+
