@@ -14,3 +14,5 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - **APIs and Frameworks**: OpenGL, SFML
 - **Tools and Platforms**: Git, GitHub, Blender, Photoshop
 
+- [YouTube](https://www.youtube.com/@Danielss_001)
+- [Instagram](https://www.instagram.com/sketchbook0.1/) 
