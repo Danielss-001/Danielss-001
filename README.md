@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ## 🚀 About Me
 - 💻 I love working on game development and software engineering projects.
 - 🌱 Currently learning advanced software arquitecture and game engines.
-- 💬 Ask me about C++, Python, and game development (including art😉). 
+- 💬 Ask me about C++, Python, Blender, Photoshop and game development (including art😉). 
 - 📫 How to reach me: [dnielss001@gmail.com](mailto:dnielss001@gmail.com)
 - ⚡ Fun fact: I enjoy playing chess and solving puzzles in my free time.
 
