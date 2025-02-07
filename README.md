@@ -1,7 +1,5 @@
 ## Hi there, I'm Daniel! 👋🤗
 
-Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Here's a bit more about me:
-
 ## 🚀 About Me
 - 💻 I love working on game development and software engineering projects.
 - 🌱 Currently learning advanced software arquitecture and differents fields of study, within the development.
