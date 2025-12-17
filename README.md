@@ -1,16 +1,60 @@
-## Hi there, I'm Daniel! 👋🤗
+## Hi there, I'm Daniel 👋
 
-## 🚀 About Me
-- 💻 I love working on game development and software engineering projects.
-- 🌱 Currently learning advanced software arquitecture and differents fields of study, within the development.
-- 💬 Ask me about C++, Python, Blender, 3d graphics and game development (including art and design😉). 
-- 📫 How to reach me: [dnielss001@gmail.com](mailto:dnielss001@gmail.com)
-- ⚡ Fun fact: I enjoy playing chess and play videogames.
+### 🚀 Data, Machine Learning & Low-Latency Engineer (in progress)
 
-## 🛠️ Languages and Tools
-- **Languages**: Python, C++, MQL4
-- **APIs and Frameworks**: SDL, FastAPI
-- **Tools and Platforms**: Git, GitHub, Blender, Photoshop, Corel, Visual Studio, Visual Studio Code, PowerShell
+I'm a software engineer passionate about **data-intensive systems, machine learning, and low-latency architectures**.  
+I enjoy working close to the hardware while designing efficient, scalable, and high-performance software.
 
-- [YouTube](https://www.youtube.com/@Danielss_001)
-- [Instagram](https://www.instagram.com/sketchbook0.1/) 
+---
+
+### 🔍 What I'm focused on
+- 📊 **Data Engineering & Machine Learning**
+  - Data processing pipelines
+  - Feature engineering
+  - Model experimentation and optimization
+
+- ⚡ **Low-Latency & High-Performance Systems**
+  - Performance-oriented C++ development
+  - Memory management and concurrency
+  - Real-time systems and optimization
+
+- 🚀 **GPU & Parallel Computing**
+  - Learning **CUDA**
+  - Parallel architectures and performance tuning
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 💻 Programming Languages
+- **Python** (Data, ML, APIs, prototyping)
+- **C++** (Performance-critical and low-level systems)
+- **MQL4** (Algorithmic trading experience)
+
+#### 🧠 Data / ML & Systems
+- FastAPI
+- NumPy, Pandas (learning-focused usage)
+- GPU computing (CUDA – learning)
+- Parallel & low-level architectures
+
+#### 🔧 Tools & Platforms
+- Git & GitHub
+- Visual Studio / Visual Studio Code
+- PowerShell
+- Linux fundamentals
+
+---
+
+### 🌱 Currently Learning
+- Advanced **software architecture**
+- **Machine Learning systems**
+- **CUDA & parallel programming**
+- **Low-latency system design**
+
+---
+
+
+---
+
+⚡ *I believe performance is a feature — and understanding systems from the ground up is the key to building better ML and data-driven software.*
+
